@@ -1,4 +1,4 @@
-# Reduce AI-Slop 写作助手
+# Reduce AI-Slop 写作skill
 
 去除文本中的AI生成痕迹（AI slop），使文字听起来更自然、更有人味。
 
